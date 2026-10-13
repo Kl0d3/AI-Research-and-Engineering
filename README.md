@@ -1,6 +1,6 @@
 # AI-Research-and-Engineering
 
-**AI Research and Engineering** (An AI for All Initiative) is a public collection of code, documentation, experiments, and research in Artificial Intelligence and Machine Learning.
+**AI Research and Engineering** (An AI for All Initiative) is a public collection of code, documentation, experiments, and research in Artificial Intelligence and Machine Learning created by **Engr. Kent Justin Canja**.
 
 This repository documents my journey in learning, exploring, and engineering AI/ML solutions. Its purpose is to make knowledge and practical implementations accessible to everyone.
 
